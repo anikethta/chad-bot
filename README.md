@@ -1,5 +1,5 @@
 # chad-bot
-discord bot for music (shitty design but idk man)
+discord bot for music (terrible design but idk man)
 
 
 
