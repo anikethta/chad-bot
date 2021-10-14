@@ -12,7 +12,7 @@ import java.net.URLConnection;
 import java.util.List;
 
 public class YoutubeSearchAPI {
-    public static String API_KEY = "AIzaSyAcFhsut0fozB4aPmvZoWTUHc5E4ZfRGOM";
+    public static String API_KEY = "YOUR YOUTUBE API KEY";
 
     public static String SearchWithKeyword(String keyword) {
 
