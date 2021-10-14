@@ -1,7 +1,5 @@
 package org.example;
 
-///Users/anikethtarikonda/Desktop/better_chad_bot/src/main/KeyTermsToUrl
-
 
 import java.io.*;
 import java.util.Collection;
@@ -10,7 +8,7 @@ import java.util.Map;
 import java.util.Set;
 
 public class KeyTermsToUrlMap {
-    public static final File log = new File("/Users/anikethtarikonda/Desktop/better_chad_bot/src/main/KeyTermsToUrl");
+    public static final File log = new File("PATH TO KeyTermsToUrl FILE");
 
     public static void writeToFile(Map<String, String> values) {
         try {
